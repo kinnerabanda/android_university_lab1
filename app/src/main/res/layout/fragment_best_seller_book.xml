@@ -27,7 +27,6 @@
 
     </RelativeLayout>
 
-
     <TextView
         android:id="@+id/book_title"
         android:layout_width="wrap_content"
@@ -59,6 +58,4 @@
         android:layout_width="wrap_content"
         android:backgroundTint="#567b95"
         android:text="Buy on Amazon"/>
-
-
 </LinearLayout>
